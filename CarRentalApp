@@ -40,7 +40,7 @@ class Rental {
     }
 }
 
-public class CarRentalApp {
+public class Main {
     public static void main(String[] args) {
         ArrayList<Car> cars = new ArrayList<>();
         ArrayList<Rental> rentalHistory = new ArrayList<>();
